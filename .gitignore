@@ -2,6 +2,7 @@
 
 # dependencies
 /eiis_ui_react/node_modules
+/ignore
 /eiis_ui_react/.pnp
 /eiis_ui_react/.pnp.js
 
